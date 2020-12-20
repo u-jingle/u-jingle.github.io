@@ -5,6 +5,7 @@ subtitle: "After the release of Wechat Mini-Program"
 author: "Hux"
 header-img: "img/post-bg-web.jpg"
 header-mask: 0.4
+hidden: true
 tags:
   - Wechat
   - DDD
