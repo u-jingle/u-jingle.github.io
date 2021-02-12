@@ -5,7 +5,7 @@ author: "JinggleJinggle"
 header-style: text
 tags:
   - parquet
-  - plugin
+  - BigDataTools
 ---
 # 문제점
 요즘 회사에서 우리팀은 파일의 용량을 줄이기 위해 json 파일을 parquet로 변환하여 s3에 저장해 사용하고 있다. (양이 맣은 경우에 한함)
