@@ -1,7 +1,7 @@
 # Site settings
-title: Jinggle Dev Log
-SEOTitle: Jinggle Dev Log
-header-img: img/moon.jpg
+title: Jingle Log
+SEOTitle: Jingle Log
+header-img: img/home-bg.jpg
 email: youjin2936@gmail.com
 description: "개발하고 가끔 딴짓하는 블로그 입니다."
 keyword: "Python, Data"
@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username:     huxpro
 #zhihu_username:     huxpro
-github_username:    u-jinggle
+github_username:    u-jingle
 #twitter_username:   huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-154977974-1'            # Format: UA-xxxxxx-xx
-ga_domain: u-jinggle.github.io
+ga_domain: u-jingle.github.io
 
 
 
